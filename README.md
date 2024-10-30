@@ -29,4 +29,5 @@ Usage
 4) View the results categorized into vulnerable and safe sites.
 
 License
+
 This project is open-source. Feel free to use and modify it as per your needs.
