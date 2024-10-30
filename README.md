@@ -1,4 +1,4 @@
-                                                                                            Sidhaant's Web Scraper
+Sidhaant's Web Scraper
 
 Introduction
 Sidhaant's Web Scraper is a powerful tool designed to help users easily scrape the web for subdomains associated with a given website. By entering a website address, the program automatically identifies and categorizes subdomains into two groups: vulnerable and safe. With an intuitive full-screen interface featuring a dynamic background, users can quickly visualize the results of their scraping efforts. This tool is particularly useful for security researchers and bug bounty hunters looking to identify potential vulnerabilities in web applications.
